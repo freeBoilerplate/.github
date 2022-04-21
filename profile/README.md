@@ -1,5 +1,4 @@
-## Hi there 👋
-### 🙋‍♀️ A short introduction
+### 👋 Welcome!
 Welcome to the Fableverse! This is an open-source project focused around bringing social media, health, and games together. This project was created to push the limits of social media and how we can make it safer, healthier, and even more fun for users. We also wanted a focus on transparency, so users know everything that goes into the platform and services, and what data we do store. We also want to ensure it's easy for users to manage their privacy, data, and the preferences, without any dubious tricks on our part to make it hard to change or hidden 5 levels deep.
 
 ### 🚀 Contribution guidelines
