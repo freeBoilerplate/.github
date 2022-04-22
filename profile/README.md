@@ -1,4 +1,4 @@
-### 🚀 Contribution guidelines
+### 🚀 Codebase guidelines
 Please checkout our `START-HERE` repository found in the pinned repositories down below. You'll find more details on the platform and how to get started. You'll also find templates that we are currently utilizing and could be utilized in your own personal projects if you desire!
 <!--
 ### 👋 Welcome!
