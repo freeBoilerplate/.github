@@ -6,5 +6,3 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### ❤️ Thanks for stopping by
-I hope you found something useful on here and we appreciate you stopping by. 
