@@ -1,8 +1,8 @@
 <h3 align="center">🗒️ Templates</h3>
 <p align="center">
-    <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API Template (Project)</a> 
+    <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API Template</a> 
     &nbsp; | &nbsp;
-    <a id="UITemplate" href="https://github.com/Fableverse/ui-template/projects/1">UI Template (Project)</a> 
+    <a id="UITemplate" href="https://github.com/Fableverse/ui-template/projects/1">UI Template</a> 
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
