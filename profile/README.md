@@ -1,4 +1,4 @@
-<h3 align="center">Templates</h3>
+<h3 align="center">Templates (Projects)</h3>
 <p align="center">
     <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API</a> 
     &nbsp; | &nbsp;
