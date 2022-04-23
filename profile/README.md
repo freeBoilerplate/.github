@@ -1,4 +1,3 @@
-<h2 align="center">Important Links</h2>
 <p align="center">🗒️ Templates</p>
 <p align="center">
     <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API Template (Project)</a> 
