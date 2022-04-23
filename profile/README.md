@@ -1,14 +1,23 @@
-### 🚀 Codebase guidelines
-Please checkout our `START-HERE` repository found in the pinned repositories down below. You'll find more details on the platform and how to get started. You'll also find templates that we are currently utilizing and could be utilized in your own personal projects if you desire!
-<!--
-### 👋 Welcome!
-Welcome to the Fableverse! This is an open-source project focused around bringing social media, health, and games together. This project was created to push the limits of social media and how we can make it safer, healthier, and even more fun for users. We also wanted a focus on transparency, so users know everything that goes into the platform and services, and what data we do store. We also want to ensure it's easy for users to manage their privacy, data, and the preferences, without any dubious tricks on our part to make it hard to change or hidden 5 levels deep.
+### Important Links
+<p align="center">  
+    <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API Template (Project)</a> 
+    &nbsp; | &nbsp;
+    <a id="UITemplate" href="https://github.com/Fableverse/ui-template/projects/1">UI Template (Project)</a> 
+    &nbsp; | &nbsp;
+</p>
 
-**Here are some ideas to get you started:**
+### 🛠️ Languages and Tools:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+❤️ Follow me on [![GitHub followers](https://img.shields.io/github/followers/brandonpessman?label=Follow&style=social)](https://github.com/brandonpessman/?tab=follow)
