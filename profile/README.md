@@ -13,4 +13,6 @@
 <h3 align="center">Socials</h3>
 <p align="center">
     <a id="Discord" href="https://discord.gg/5a9bSRyYyF">Discord</a>
+    &nbsp; | &nbsp;
+    <a id="UITemplate" href="https://twitter.com/fableverse">Twitter</a> 
 </p>
