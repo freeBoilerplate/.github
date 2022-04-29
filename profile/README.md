@@ -3,6 +3,8 @@
     <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API</a> 
     &nbsp; | &nbsp;
     <a id="UITemplate" href="https://github.com/Fableverse/ui-template/projects/1">UI</a> 
+    &nbsp; | &nbsp;
+    <a id="UITemplate" href="https://github.com/Fableverse/discord-template/projects/1">Discord Bot</a> 
 </p>
 
 <h3 align="center">External Projects</h3>
