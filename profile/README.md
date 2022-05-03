@@ -4,7 +4,9 @@
     &nbsp; | &nbsp;
     <a id="UITemplate" href="https://github.com/Fableverse/ui-template/projects/1">UI</a> 
     &nbsp; | &nbsp;
-    <a id="UITemplate" href="https://github.com/Fableverse/discord-template/projects/1">Discord Bot</a> 
+    <a id="DiscordBotTemplate" href="https://github.com/Fableverse/discord-template/projects/1">Discord Bot</a> 
+    &nbsp; | &nbsp;
+    <a id="ElectronTemplate" href="https://github.com/Fableverse/electron-template/projects/1">Electron App</a> 
 </p>
 
 <h3 align="center">External Projects</h3>
