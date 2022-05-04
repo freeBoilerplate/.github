@@ -9,9 +9,14 @@
     <a id="ElectronTemplate" href="https://github.com/Fableverse/electron-template/projects/1">Electron App</a> 
 </p>
 
-<h3 align="center">External Projects</h3>
+<h3 align="center">Discord Bots</h3>
 <p align="center">
     <a id="DiscordShield" href="https://github.com/Fableverse/discord-shield">Discord Shield</a>
+</p>
+
+<h3 align="center">Twitch Bots</h3>
+<p align="center">
+    <a id="TwitchChessPolice" href="https://github.com/Fableverse/twitch-chesspolice">Chess Police</a>
 </p>
 
 <h3 align="center">Socials</h3>
