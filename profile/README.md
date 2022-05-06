@@ -9,6 +9,11 @@
     <a id="ElectronTemplate" href="https://github.com/Fableverse/electron-template/projects/1">Electron App</a> 
 </p>
 
+<h3 align="center">Services</h3>
+<p align="center">
+    <a id="DiscordShield" href="https://github.com/Fableverse/auth">Auth</a>
+</p>
+
 <h3 align="center">Discord Bots</h3>
 <p align="center">
     <a id="DiscordShield" href="https://github.com/Fableverse/discord-shield">Discord Shield</a>
