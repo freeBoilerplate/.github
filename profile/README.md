@@ -11,19 +11,9 @@
 
 <h3 align="center">Services</h3>
 <p align="center">
-    <a id="DiscordShield" href="https://github.com/Fableverse/craft">Craft</a>
+    <a id="Craft" href="https://github.com/Fableverse/craft">Craft</a>
     &nbsp; | &nbsp;
-    <a id="ElectronTemplate" href="https://github.com/Fableverse/auth">Auth</a> 
-</p>
-
-<h3 align="center">Discord Bots</h3>
-<p align="center">
-    <a id="DiscordShield" href="https://github.com/Fableverse/discord-shield">Discord Shield</a>
-</p>
-
-<h3 align="center">Twitch Bots</h3>
-<p align="center">
-    <a id="TwitchChessPolice" href="https://github.com/Fableverse/twitch-chesspolice">Chess Police</a>
+    <a id="Auth" href="https://github.com/Fableverse/auth">Auth</a> 
 </p>
 
 <h3 align="center">Socials</h3>
