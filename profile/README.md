@@ -1,17 +1,17 @@
-<h3 align="center">Templates (Projects)</h3>
+<h3 align="center">Templates</h3>
 <p align="center">
-    <a id="APITemplate" href="https://github.com/Fableverse/api-template/projects/1">API</a> 
+    <a id="APITemplate" href="https://github.com/Fableverse/api-template">API</a> 
     &nbsp; | &nbsp;
-    <a id="UITemplate" href="https://github.com/Fableverse/ui-template/projects/1">UI</a> 
+    <a id="UITemplate" href="https://github.com/Fableverse/ui-template">UI</a> 
     &nbsp; | &nbsp;
-    <a id="DiscordBotTemplate" href="https://github.com/Fableverse/discord-template/projects/1">Discord Bot</a> 
+    <a id="DiscordBotTemplate" href="https://github.com/Fableverse/discord-template">Discord Bot</a> 
     &nbsp; | &nbsp;
-    <a id="ElectronTemplate" href="https://github.com/Fableverse/electron-template/projects/1">Electron App</a> 
+    <a id="ElectronTemplate" href="https://github.com/Fableverse/electron-template">Electron App</a> 
 </p>
 
 <h3 align="center">Services</h3>
 <p align="center">
-    <a id="Craft" href="https://github.com/Fableverse/craft">Craft</a>
+    <a id="Craft" href="https://github.com/Fableverse/craft">Craft (Design System)</a>
     &nbsp; | &nbsp;
     <a id="Auth" href="https://github.com/Fableverse/auth">Auth</a> 
 </p>
