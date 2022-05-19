@@ -9,13 +9,6 @@
     <a id="ElectronTemplate" href="https://github.com/Fableverse/electron-template">Electron App</a> 
 </p>
 
-<h3 align="center">Services</h3>
-<p align="center">
-    <a id="Craft" href="https://github.com/Fableverse/craft">Craft (Design System)</a>
-    &nbsp; | &nbsp;
-    <a id="Auth" href="https://github.com/Fableverse/auth">Auth</a> 
-</p>
-
 <h3 align="center">Socials</h3>
 <p align="center">
     <a id="Discord" href="https://discord.gg/5a9bSRyYyF">Discord</a>
